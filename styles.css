@@ -73,6 +73,10 @@ article {
 	width: 700px;
 }
 
+#intro {
+	font-size: 22px;
+}
+
 .Content {
 	background: #31c5da;
 	padding-top: 1px;
